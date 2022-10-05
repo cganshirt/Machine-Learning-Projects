@@ -1,0 +1,1 @@
+implemented the weighted k-nearest neighbor algorithm

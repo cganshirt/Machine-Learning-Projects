@@ -1,0 +1,8 @@
+train.csv and test.csv contain data collected from Federal University of Rio Grande do Sul (UFRGS), a university in Brazil. Each row contains data about one student (there are 43,303 rows total, split across the two files).
+
+The first nine columns correspond to scores on entrance exams taken when students apply to UFRGS. The 10th column contains the students GPA after three semesters at UFRGS.
+
+The nine exams are (in order):
+Physics, Biology, History, Second_Language, Geography, Literature, Portuguese_and_Essay, Math, Chemistry.
+
+To GPA is computed on a 4.0 scale.

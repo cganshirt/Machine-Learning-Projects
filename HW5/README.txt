@@ -1,0 +1,1 @@
+implemented the Simple RL algorithm inspired by MENACE and solve the stopped car problem
